@@ -1,10 +1,12 @@
-# Course on Building Personalized Customer Chatbots using LLMs
+# LLMs Course 
+
+## Part 1: Building Personalized Customer Chatbots using LLMs
 
 ---
 
-## Spectrum of methods to build a personalized chatbot (with Marketing as a use-case)
-### Prompting with large-context models (Gemini)
-### Fine-tuning models using PEFT (LoRA)
+### Spectrum of methods to build a personalized chatbot (with Marketing as a use-case)
+#### Prompting with large-context models (Gemini)
+#### Fine-tuning models using PEFT (LoRA)
 
 ---
 
